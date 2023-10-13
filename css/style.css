@@ -1,0 +1,37 @@
+nav {
+  height: 100px;
+  background-color: teal;
+}
+.container {
+  overflow: hidden;
+}
+.box1 {
+  width: 70%;
+  height: 200px;
+  background-color: red;
+  float: left;
+}
+.box2 {
+  width: 30%;
+  height: 200px;
+  background-color: green;
+  float: right;
+}
+.box {
+  width: 33.33%;
+  height: 200px;
+  float: left;
+}
+.box3 {
+  background-color: magenta;
+}
+.box4 {
+  background-color: aqua;
+}
+.box5 {
+  background-color: blueviolet;
+}
+footer {
+  height: 100px;
+  background-color: black;
+}
